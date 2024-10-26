@@ -280,8 +280,7 @@ public class MainActivity2 extends AppCompatActivity {
 ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/5a9ec956-d90f-4546-8fa6-7688396bacf5)
-
-![WhatsApp Image 2024-10-26 at 13 55 22_ce91d164](https://github.com/user-attachments/assets/d9f2cdfb-1a23-4584-97c8-ca126d084090)
+<img src="https://github.com/user-attachments/assets/d9f2cdfb-1a23-4584-97c8-ca126d084090" width="50.5%" height="57%">
 
 
 
